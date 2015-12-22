@@ -1,4 +1,4 @@
-# Image-Meta-Data-Scraper--EXIF-
+# Image Meta Data Scraper - EXIF (IMDS)
 Read meta data from .jpg, .tif and .wav files. 
 
 Simple, yet functional EXIF reader.
